@@ -16,4 +16,8 @@ Hey, I'm guessing this isn't the only keyboard with an issue like this, especial
 5. Use the menu key/FN2 on K630 to toggle FN1
 6. Use the damn keeb!
 
+
+
 Extra: You can easily remove it from the Startup Programs by running remove.bat
+
+The k630-RGB-fix provides a different configuration
